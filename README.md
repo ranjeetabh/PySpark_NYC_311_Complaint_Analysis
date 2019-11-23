@@ -1,4 +1,4 @@
-# PySpark_NYC_311_Complaint_Analysis
+# NYC_311_Complaint_Analysis
 
 This PySpark application programmatically aimed to do the following:
 
