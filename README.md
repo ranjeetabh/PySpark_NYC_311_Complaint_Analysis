@@ -14,3 +14,4 @@ This repository contains the following files:
 
 2) 311_Analysis_Document: Explanation of results obtained and procedures undertaken.
 
+Note: PySpark notebook is executed in Hadoop cluster in AWS Cloud platform.
